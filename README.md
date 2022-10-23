@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komolliddinoff Abdurahmon
-- 👀 I’m interested in programming,soccer,hacking
-- 🌱 I’m currently learning python,c and a bit chemistry,math
+- 👀 I’m interested in programming,hacking
+- 🌱 I’m currently learning python,c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me komoliddinoffabdurahmon@gmail.com
 
